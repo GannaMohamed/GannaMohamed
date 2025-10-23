@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Ganna Mohamed
 
-<!--
-**GannaMohamed/GannaMohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer passionate about crafting smooth, user-centered interfaces with thoughtful details and clean design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I Do  
+I focus on building intuitive, responsive, and visually balanced web experiences.  
+Currently exploring better design–development workflows and performance optimization in React and Next.js.
+
+---
+
+### ⚙️ Tech Stack  
+- **Frontend:** React.js, Next.js, JavaScript (ES6+), TypeScript  
+- **Styling:** Tailwind CSS, MUI, Framer Motion  
+- **Tools & Workflow:** Git, Figma, Axios, REST APIs  
+
+---
+
+### 🌱 Currently  
+- Improving accessibility and UX consistency across projects  
+- Learning advanced React patterns and UI animations  
+- Building personal UI components to speed up development  
+
+---
+
+### 🔗 Connect with Me  
+[Portfolio](#) · [LinkedIn](#) · [Email](mailto:yourname@email.com)
+
+---
