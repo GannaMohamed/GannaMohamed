@@ -58,5 +58,5 @@ Bridging **UI/UX design and Frontend development** to turn ideas into responsive
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gannaelamir/gannaelamir/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/gannamohamed/gannamohamed/output/snake.svg" alt="Snake animation" />
 
