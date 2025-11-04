@@ -40,8 +40,8 @@ Bridging **UI/UX design and Frontend development** to turn ideas into responsive
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gannaelamir&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gannaelamir&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gannamohamed&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gannamohamed&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top languages" />
 </div>
 
 ---
